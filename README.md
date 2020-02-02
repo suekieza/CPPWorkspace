@@ -1,10 +1,10 @@
 # C++ Programming for beginners course
-
-### Dependencies
-
+***
+## Dependencies
 #### Codelite
 #### MinGW
-
+***
+## Course Sections
 ##### Section 1 - Done
 ##### Section 2 - Done
 ##### Section 3 - Done
