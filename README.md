@@ -9,9 +9,9 @@
 ##### Section 2 - Done
 ##### Section 3 - Done
 ##### Section 4 - Done
-##### Section 5 - Starting
-##### Section 6
-##### Section 7
+##### Section 5 - Done
+##### Section 6 - Done
+##### Section 7 - Ready to start
 ##### Section 8
 ##### Section 9
 ##### Section 10
