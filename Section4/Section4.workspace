@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section4" Database="" Version="10000">
-  <Project Name="Project1" Path="Prodject1/Prodject1.project" Active="No"/>
+  <Project Name="Project1" Path="Prodject1/Prodject1.project" Active="Yes"/>
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
-  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="Yes"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
