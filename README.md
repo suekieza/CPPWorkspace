@@ -11,8 +11,8 @@
 ##### Section 4 - Done
 ##### Section 5 - Done
 ##### Section 6 - Done
-##### Section 7 - Ready to start
-##### Section 8
+##### Section 7 - Done
+##### Section 8 - Done
 ##### Section 9
 ##### Section 10
 ##### Section 11
